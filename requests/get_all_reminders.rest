@@ -1,0 +1,1 @@
+GET https://hk-reminderfullstack.herokuapp.com/api/reminders

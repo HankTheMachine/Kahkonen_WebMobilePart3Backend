@@ -1,0 +1,6 @@
+POST https://hk-reminderfullstack.herokuapp.com//api/reminders/
+content-type: Application/json
+
+{
+    "text": "Serveri ei suostu vastaanottamaan post-kutsua ilman aikaleimaa."
+}

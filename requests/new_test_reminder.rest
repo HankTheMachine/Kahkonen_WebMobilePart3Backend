@@ -1,0 +1,8 @@
+POST https://hk-reminderfullstack.herokuapp.com/api/reminders/
+content-type: Application/json
+
+{
+    "text": "Tämän muistutuksen ID:ksi pitäisi generoitua satunnainen kokonaisluku väliltä 0 - 1 000 000.",
+    "date": "2021-04-13T08:59:09.850Z"
+
+}
